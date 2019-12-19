@@ -1,5 +1,5 @@
 package com.aypara.example;
 
-public class B {
-
+public class B extends A {
+	
 }
