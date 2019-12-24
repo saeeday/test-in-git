@@ -12,4 +12,7 @@ public class A {
 	public int getY() {
 		return y;
 	}
+	public String toString() {
+		return ""+x+y;
+	}
 }
