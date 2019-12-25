@@ -11,4 +11,14 @@ public class A {
 		this.y=y;
 		this.h=h;
 	}
+	public int getX() {
+		return x;
+	}
+	public int getY() {
+		return y;
+	}
+	public String toString() {
+		return ""+x+y;
+	}
+	
 }
